@@ -24,3 +24,4 @@ Need all the inform like cards and shipping ect.
 # Important 
 Everything has to be done in the same instance in order to avoid raising suspicions from 
 the supreme website.
+- We can skip the a lot of steps by simply entering the http://www.supremenewyork.com/shop
