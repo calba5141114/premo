@@ -25,3 +25,5 @@ Need all the inform like cards and shipping ect.
 Everything has to be done in the same instance in order to avoid raising suspicions from 
 the supreme website.
 - We can skip the a lot of steps by simply entering the http://www.supremenewyork.com/shop
+- http://www.supremenewyork.com/shop/all/jackets we can access name of objects by finding there subset 
+ie: if we want a jacket we put in jackets then control f search the item click the link associated with it then proceed to finish the order.
