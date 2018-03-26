@@ -5,6 +5,9 @@ Premo is a bot created to purchase supreme merchandise off the supreme clothing 
 
 in order to fulfill an order for the client we need to take in a list of items wanted so we can search for them.
 AN exact name typed the same.
+We'll create objects that hold the data of the item like 
+Name, sizing ect.
+Need failsafes to console log errors to prevent failure. 
 
 # Get info
 
